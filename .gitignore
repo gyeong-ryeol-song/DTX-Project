@@ -1,0 +1,29 @@
+# Compiled object files
+*.o
+
+# Ignore Python compiled files
+__pycache__/
+
+# Compiled dynamic libraries
+*.so
+
+# macOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# IDE folders
+.idea/
+.vscode/
+
+# csv file
+*.csv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+
+# Ignore Python compiled files
+dt/
